@@ -1,0 +1,1 @@
+heroku config:set MONGODB_URI="mongodb://cmaly:helloworld@ds131511.mlab.com:31511/cmalytodo"
